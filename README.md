@@ -7,6 +7,8 @@
 [![Backend Service](https://img.shields.io/badge/Backend_API-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://doodlr-kxqv.onrender.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
+**[Watch the demo video](https://drive.google.com/file/d/1MxEi0FjU_8quqyWZp9LJHTXDdpnVTYzv/view?usp=sharing)**
+
 ---
 
 ## Table of Contents
@@ -27,7 +29,6 @@
 - [Local Setup](#local-setup)
 - [Environment Variables](#environment-variables)
 - [Deployment](#deployment)
-- [Health Monitoring & Verification](#health-monitoring--verification)
 
 ---
 
